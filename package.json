@@ -1,0 +1,12 @@
+{
+  "name": "forkoverknives-recipes-scraper",
+  "version": "1.0.0",
+  "description": "A web scraper tool to scrap free recipes from Fork Over Knives webiste into CSV.",
+  "main": "index.js",
+  "repository": "git@github.com:hanihusam/forkoverknives-recipes-scraper.git",
+  "author": "Hani Husamuddin <hani.husam@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^13.4.0"
+  }
+}
